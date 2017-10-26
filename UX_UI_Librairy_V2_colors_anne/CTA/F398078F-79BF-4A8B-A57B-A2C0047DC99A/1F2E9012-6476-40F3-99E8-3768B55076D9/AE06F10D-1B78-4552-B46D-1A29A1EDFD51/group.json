@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "AE06F10D-1B78-4552-B46D-1A29A1EDFD51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 330,
+    "width": 150,
+    "x": 835,
+    "y": 124
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9A23A48A-5021-4E82-B2AA-F3D98625050F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FA8B3BA-8E42-4DFD-922A-7BBCA3076DE1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C74FDE3-D980-4A52-A905-4232F4E252D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CB3417C-1946-45F6-887D-6D1D7419FD99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D4D0887-947C-4928-8A4C-E594D6E0BA6B"
+    }
+  ],
+  "name": "C-ghost",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

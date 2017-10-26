@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "4FC6A577-80FF-44A9-84B8-1B5D8815CE74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 176,
+    "width": 1101,
+    "x": 50,
+    "y": 183
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8E2C7625-3EB4-4EF3-BCD4-3E337EB1B14B"
+    },
+    {
+      "class": "text",
+      "id": "23287F9F-2AEE-4FF6-A85E-E54E4DA17863"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DA33C23-6D47-4CD9-BF3E-A7E29D23A80C"
+    }
+  ],
+  "name": "00_header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

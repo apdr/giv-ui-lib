@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "do_objectID": "D8182D08-5913-4343-9955-F3200E7A80B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 225,
+    "width": 171,
+    "x": 634,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7FDB2ECE-043C-4589-AF90-1ADEABD99DE4"
+    },
+    {
+      "class": "group",
+      "id": "BA35C5EC-9B8C-414D-AA60-EE2728D883D9"
+    },
+    {
+      "class": "text",
+      "id": "B4D62C72-4BBC-434D-83CE-2FBF0D8871DB"
+    },
+    {
+      "class": "text",
+      "id": "DEFF60EE-9611-4612-B600-078E92720E48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5470ED40-E972-4E50-9BBF-65776D88074D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EBA1059F-73C1-45E8-9DA1-5E8870A2C407"
+    }
+  ],
+  "name": "#76C0E7",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 7,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2394701086956522,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.ment.sketch.prism": {
+      "cell-layer": {
+        "alpha": 1,
+        "blue": 0.4666666666666667,
+        "green": 0.4352941176470586,
+        "hex": "116F77",
+        "name": "Skobeloff",
+        "red": 0.06666666666666664
+      }
+    }
+  }
+}

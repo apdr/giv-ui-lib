@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "F385D581-2295-4FDA-A294-242C1F8153FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 290,
+    "width": 1100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4C07C673-14D7-42E5-A1D9-32F9CC798923"
+    },
+    {
+      "class": "text",
+      "id": "033A39AF-7D51-4ACB-A841-14DEC0B4CA79"
+    },
+    {
+      "class": "text",
+      "id": "7BECF022-33F4-4BCE-AF5E-2B1211B6F520"
+    },
+    {
+      "class": "text",
+      "id": "D145A30F-DAE9-46AF-8E71-32A9B39F774C"
+    },
+    {
+      "class": "text",
+      "id": "CEC32C56-4C67-428A-AC8A-674AFA2C78FC"
+    },
+    {
+      "class": "text",
+      "id": "CB2A117D-C22E-45F3-9E8F-DB57E70F431B"
+    },
+    {
+      "class": "text",
+      "id": "F7909943-A381-4C06-A87E-CFAFF6823A4A"
+    }
+  ],
+  "name": "mockup/typohraphie_05/text_states",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

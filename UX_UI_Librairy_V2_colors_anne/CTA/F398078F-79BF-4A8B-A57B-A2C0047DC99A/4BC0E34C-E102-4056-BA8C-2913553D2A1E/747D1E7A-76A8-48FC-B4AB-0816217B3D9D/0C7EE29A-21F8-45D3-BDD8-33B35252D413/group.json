@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "0C7EE29A-21F8-45D3-BDD8-33B35252D413",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 300,
+    "x": 0,
+    "y": 68
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "276F738A-FC1A-4D74-99C6-98C95D45F592"
+    },
+    {
+      "class": "text",
+      "id": "49E2CABA-F67E-40E7-9BC9-FBB074173A24"
+    },
+    {
+      "class": "text",
+      "id": "8CC7E717-F2C1-4E14-A31A-48EFA5927B31"
+    },
+    {
+      "class": "group",
+      "id": "812BB8A8-8C1F-440F-BA4C-7E0AB1D06265"
+    }
+  ],
+  "name": "Btn/switches/50_300/primary/hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

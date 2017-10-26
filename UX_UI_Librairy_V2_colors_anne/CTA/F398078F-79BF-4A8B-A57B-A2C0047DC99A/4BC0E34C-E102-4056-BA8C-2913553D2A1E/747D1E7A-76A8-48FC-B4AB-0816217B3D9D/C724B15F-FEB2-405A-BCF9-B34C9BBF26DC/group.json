@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "C724B15F-FEB2-405A-BCF9-B34C9BBF26DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E8B1908B-A91F-4257-A905-E4A0CD42739A"
+    },
+    {
+      "class": "text",
+      "id": "D8444A86-A466-4D0E-AE5A-6C8EA2C405D9"
+    },
+    {
+      "class": "text",
+      "id": "B9BEB53E-4500-4DE3-BEBC-FAC323466876"
+    },
+    {
+      "class": "group",
+      "id": "D59F3F45-F403-4E18-B6B2-0DA618F61DB8"
+    }
+  ],
+  "name": "Btn/switches/50_300/primary/normal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

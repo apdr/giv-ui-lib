@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "C9C9B2EA-33BE-4E12-B2E6-24F1E22F846A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CDCF2DBC-FB26-4FAE-B1BB-AEF08DDC6CB9"
+    },
+    {
+      "class": "text",
+      "id": "CB5C23A2-4E80-4FFC-8420-7F57E5ECF773"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B4263B5-F956-47C0-9C08-F8B98ABF1182"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1981CF8E-5192-4583-864F-D3C75EAC27EC"
+    }
+  ],
+  "name": "Btn/Split/50_300/Primary/focussed",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

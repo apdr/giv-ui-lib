@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "46E3EF75-868E-4837-966C-51B8F84A3350",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 322,
+    "width": 1100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2D0CBEE0-1635-42AB-AC06-F748256729F9"
+    },
+    {
+      "class": "group",
+      "id": "5A193CB7-2F5B-4E77-9524-A2CF893234AA"
+    },
+    {
+      "class": "group",
+      "id": "E04DD43B-333F-4626-8CF7-CF2C3C3CF61C"
+    },
+    {
+      "class": "group",
+      "id": "FE7E3242-70DA-48A4-917D-43D490A1F5C6"
+    },
+    {
+      "class": "text",
+      "id": "DE5EC35C-2472-48F6-BE50-7CCC6AD23FEE"
+    }
+  ],
+  "name": "mockup/typohraphie_07/text_link",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

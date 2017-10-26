@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "82A32AF2-0580-417E-80A4-D8F5807C2D0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 726,
+    "width": 1100,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "59CBD9E9-6EC5-48E4-BF2A-DA6885794162"
+    },
+    {
+      "class": "group",
+      "id": "981B3654-FE85-4B91-B74E-6AC43A208425"
+    },
+    {
+      "class": "group",
+      "id": "0CC7E830-14F9-49F3-A24C-5EB9282CF0C5"
+    },
+    {
+      "class": "group",
+      "id": "AF920D5A-35E5-444D-B054-210F3BD887CB"
+    },
+    {
+      "class": "group",
+      "id": "0039DDD8-EF6A-477D-843A-E8F264463D2D"
+    },
+    {
+      "class": "text",
+      "id": "020D06FB-14FC-48C7-AFC1-5773AAE7898A"
+    }
+  ],
+  "name": "mockup/typohraphie_04/paragraph",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "79BE3AC6-BE62-4A90-99E7-CD8D2EC7F1F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 200,
+    "x": 0,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CF5E4013-6C22-4766-8F26-73C4669FF59B"
+    },
+    {
+      "class": "text",
+      "id": "1E8502EF-F5B3-4D5D-A035-76E5B9FD37F7"
+    },
+    {
+      "class": "text",
+      "id": "4A9B8F86-9F49-4FE0-A4EE-5CEB97A2C8D5"
+    }
+  ],
+  "name": "Fedra Sans Alt Pro LF - book",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

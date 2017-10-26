@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "81DE3A44-CFF2-4D6A-9EB2-E516E6883340",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 200,
+    "x": 480,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6E0B6819-EE67-490E-AF73-5A95F2F94872"
+    },
+    {
+      "class": "text",
+      "id": "6022A3FF-9684-4F34-BA2B-86853B1312B2"
+    },
+    {
+      "class": "text",
+      "id": "0648F872-5AB4-4CA0-A15D-80C07D906422"
+    }
+  ],
+  "name": "fedra_serif_b_pro_book_demi",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

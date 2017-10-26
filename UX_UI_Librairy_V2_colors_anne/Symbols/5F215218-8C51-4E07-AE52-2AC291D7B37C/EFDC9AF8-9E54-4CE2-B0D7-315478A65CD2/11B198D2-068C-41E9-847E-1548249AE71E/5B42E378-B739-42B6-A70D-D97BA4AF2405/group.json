@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "5B42E378-B739-42B6-A70D-D97BA4AF2405",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 200,
+    "x": 720,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DEE7B594-F932-4646-9B60-B79EC639D137"
+    },
+    {
+      "class": "text",
+      "id": "81912708-0E92-4DE2-93B3-876B31310673"
+    },
+    {
+      "class": "text",
+      "id": "E2244CD0-D27D-4CAB-A275-E8E889BCF420"
+    }
+  ],
+  "name": "Fedra Sans Alt Pro LF - demi ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
